@@ -1,0 +1,1 @@
+## Javascript by default work on prototypal inheritence 
